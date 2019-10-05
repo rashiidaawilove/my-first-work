@@ -1,0 +1,10 @@
+.innerdiv{
+    height:80%;
+    width:60%;
+    text-align: center;
+    box-shadow: 5px 5px  6px gray;
+    padding: 5px 5px 5px;
+}
+h3{
+    color:red;
+}
